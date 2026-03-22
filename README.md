@@ -14,4 +14,5 @@
 ## Programming languages I'm learning
 - python ⭐
 - C++ ⭐
+- C#
 - lua
